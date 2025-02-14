@@ -1,2 +1,2 @@
-apikey|domain
-apikey|domain
+GAIA-MISAL|scroll.gaia.domains/v1/chat/completions
+
